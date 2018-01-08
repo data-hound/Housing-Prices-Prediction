@@ -1,0 +1,3 @@
+First the data was extracted from the text files into csv files and train and test sets were seggregated.
+
+Then, we proceed to process the train set
